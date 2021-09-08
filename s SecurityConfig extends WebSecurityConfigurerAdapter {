@@ -1,0 +1,41 @@
+[33mcommit 54f0596c001d530a8936997db9be30a3d97bf070[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Roger <rogerio.alonso@soulasalle.com.br>
+Date:   Wed Sep 8 10:51:40 2021 -0300
+
+    Secutity Config
+
+[33mcommit 45926440cf7e2ce634f26ed081239ac0c81f4939[m
+Author: Roger <rogerio.alonso@soulasalle.com.br>
+Date:   Mon Sep 6 22:30:29 2021 -0300
+
+    remove img not used
+
+[33mcommit 658805a749175d8db4b1d0886a41b2838af2d70d[m
+Author: Roger <rogerio.alonso@soulasalle.com.br>
+Date:   Mon Sep 6 22:15:51 2021 -0300
+
+    Static charts
+
+[33mcommit 8236beff25840c67d5166d7db45cd57919849ccc[m
+Author: Roger <rogerio.alonso@soulasalle.com.br>
+Date:   Mon Sep 6 21:53:17 2021 -0300
+
+    Basic static components
+
+[33mcommit 895280880133064f3d0cb611c73f6afeabdffaa2[m
+Author: Roger <rogerio.alonso@soulasalle.com.br>
+Date:   Mon Sep 6 21:29:17 2021 -0300
+
+    Bootstrap
+
+[33mcommit 499d16ea57d94d3d1384b1034ccd5f157b358f50[m
+Author: Roger <rogerio.alonso@soulasalle.com.br>
+Date:   Mon Sep 6 21:15:54 2021 -0300
+
+    project clean
+
+[33mcommit 27f38d3f8d384d6cec1c052c788f51619f818713[m
+Author: Roger <rogerio.alonso@soulasalle.com.br>
+Date:   Mon Sep 6 19:24:16 2021 -0300
+
+    Project created
