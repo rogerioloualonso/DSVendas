@@ -1,6 +1,6 @@
 # DSVendas
 
-- 👀 Description: 
+- 👀 Description 
                 
                 Project developed at DevSuperior's Spring React Week
 - 😎 Curiosity
