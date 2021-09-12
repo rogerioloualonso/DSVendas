@@ -1,10 +1,18 @@
 # DSVendas
 
-- 👀 Description: Project developed at DevSuperior's Spring React Week
-- 😎 Curiosity: - First project with BackEnd in Java
+- 👀 Description: 
+                
+                Project developed at DevSuperior's Spring React Week
+- 😎 Curiosity
+
+                - First project with BackEnd in Java
                 - Backend with upload in Horuku
                 - Frontend with React e Bootstrap
-- ⌛ Developing: Project completed
+                - Website hosting with Netlify
+                
+- ⌛ Developing 
+
+                 Project completed!
 
 ## Home
 
