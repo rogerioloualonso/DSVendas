@@ -6,8 +6,8 @@
 - 😎 Curiosity
 
                 - First project with BackEnd in Java
-                - Backend with deployed in Heroku
-                - Frontend with React e Bootstrap
+                - Backend deployed in Heroku
+                - Frontend developed in React e Bootstrap
                 - Website hosting with Netlify
                 
 - ⌛ Developing 
